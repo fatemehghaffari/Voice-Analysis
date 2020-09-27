@@ -25,7 +25,9 @@ Age Distribution:
 In this project the first 40 MFCC features are used. Please consider that the first 20 MFCC features, which may be the default ones, are used for linguistic applications and are independant from personal features of the voice such as age and gender. Therefore, they can be ignored completely. However, it won't hurt to include them. 
 ## Classification
 The GMM classifier is well-suited for the MFCC features. The covariance type is selected as "diag" to avoid memory error. 
+
 Classification Results:
 
-
+![class](/img/class.png)
 ## Clustering
+Both K-means and GMM method were used for clustering, but there was no significant difference in their performance. 

@@ -3,6 +3,15 @@ This is the entire process of implementing a voice recognition project, from fea
 ## Conceptual Design
 Train:
 
+![train](/img/train.png)
+
+Test:
+
+![train](/img/test.png)
+
+Clustering:
+
+![train](/img/cluster.png)
 ## Data Statistical Analysis
 ## Feature Extraction
 ## Classification
